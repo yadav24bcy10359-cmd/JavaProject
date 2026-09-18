@@ -1,0 +1,22 @@
+# NetBeans specific (Build artifacts)
+/build/
+/dist/
+
+# NetBeans User-specific settings (Do not share these)
+/nbproject/private/
+
+# Compiled Java class files (in case they are outside build)
+*.class
+
+# Package Files & Libraries
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# OS specific metadata
+.DS_Store
+Thumbs.db
