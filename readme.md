@@ -47,7 +47,7 @@ Feel free to modify or enhance features.
 ---
 If you want, I can also add **screenshots**, **database schema**, or a more detailed **project explanation**.
 
-## Vibhor Kiran Sardar (24BAI10277)
+## Manisha Yadav (24BCY10359)
 B.Tech Computer Science and Engineering
 VIT Bhopal University
 
